@@ -1,1 +1,3 @@
-# lip-sync-wav2lip
+# Audio sync Wav2Lip Deepfake model 🚀 🚀
+
+## 
