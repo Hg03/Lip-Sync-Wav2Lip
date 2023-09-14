@@ -140,6 +140,11 @@ https://github.com/Hg03/lip-sync-wav2lip/assets/69637720/99f01cf3-49d9-4660-82e0
 !cd Wav2Lip && python inference.py --checkpoint_path checkpoints/wav2lip_gan.pth --face "/content/sample_data/input_video.mp4" --audio "/content/sample_data/input_audio.wav" --pads 0 20 0 0
 ```
 
+### 🔮 Notebook link
+
+Refer the [notebook](https://github.com/Hg03/lip-sync-wav2lip/blob/main/exploration_notebook/Wav2Lip_TenDeepfake_eng.ipynb) for more details.
+
+### Finished 🎉🎉🎉
 
 
 
